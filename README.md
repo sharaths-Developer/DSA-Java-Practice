@@ -10,7 +10,7 @@ This repository contains my solutions to DSA assignments and programming problem
 
 ### Flow of Program
 
-* [ ] Assignment 1
+* [x] Assignment 1
 * [ ] Remaining assignments
 
 ## Language
