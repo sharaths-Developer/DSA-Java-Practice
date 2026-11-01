@@ -1,8 +1,8 @@
-package Flow_of_Program;
+package flow_of_program;
 import java.util.Scanner;
 
 public class Question03 {
-    public static void main(String[] args){ 
+    public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         //Take a number as input and print the multiplication table for it.
 
@@ -10,7 +10,7 @@ public class Question03 {
         System.out.print("Enter a number: ");
         number = sc.nextInt();
 
-        for(int i = 1 ; i <= 10; i++){ 
+        for(int i = 1 ; i <= 10; i++){
             System.out.println(number + " * " + i + " = " + number * i);
         }
         sc.close();

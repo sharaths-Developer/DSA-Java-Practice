@@ -1,30 +1,73 @@
-# DSA Java Practice
+# DSA Java Practice 🚀
 
-My Data Structures and Algorithms learning journey using Java.
+Welcome to my **Data Structures and Algorithms (DSA) with Java** learning journey!
 
-## About
+This repository contains my Java practice programs, assignments, and problem-solving exercises as I build a strong foundation in programming and Data Structures & Algorithms.
 
-This repository contains my solutions to DSA assignments and programming problems.
+## 🎯 Learning Goals
 
-## Progress
+* Strengthen Java programming fundamentals.
+* Improve logical thinking and problem-solving skills.
+* Understand Data Structures and Algorithms.
+* Practice writing clean and readable code.
+* Prepare for technical interviews.
 
-### Flow of Program
+## 🛠️ Technologies Used
 
-* [x] Assignment 1
-* [ ] Remaining assignments
+* **Language:** Java
+* **IDE:** IntelliJ IDEA
+* **Version Control:** Git & GitHub
+* **Learning Resource:** Kunal Kushwaha's DSA Bootcamp
 
-## Language
+## 📚 Assignments & Progress
 
-* Java
+| No. | Topic           | Status      |
+| --- | --------------- | ----------- |
+| 01  | Flow of Program | ✅ Completed |
+| 02  | Java Basics     | ✅ Completed |
+| 03  | Functions       | ⏳ Upcoming  |
+| 04  | Arrays          | ⏳ Upcoming  |
+| 05  | Searching       | ⏳ Upcoming  |
+| 06  | Sorting         | ⏳ Upcoming  |
 
-## Learning Resource
+## 📁 Repository Structure
 
-* Kunal Kushwaha DSA Bootcamp
+```text
+DSA-Java-Practice/
+│
+├── 01-Flow-of-Program/
+│   ├── Question01.java
+│   ├── Question02.java
+│   └── ...
+│
+├── 02-Java-Basics/
+│   ├── Question01.java
+│   ├── Question02.java
+│   └── ...
+│
+├── 03-Functions/
+│
+└── README.md
+```
 
-## Current Status
+## 📈 My Progress
 
-Currently working on Flow of Program assignments.
+Currently, I have completed:
+
+* [x] Assignment 01 – Flow of Program
+* [x] Assignment 02 – Java Basics
+* [ ] Assignment 03 – Functions
+* [ ] Assignment 04 – Arrays
+
+I will continuously update this repository as I learn new concepts and solve more problems.
+
+## 📖 Learning Resources
+
+* [Kunal Kushwaha DSA Bootcamp](https://www.youtube.com/@KunalKushwaha)
+* [Java Documentation](https://docs.oracle.com/en/java/)
 
 ---
 
-More solutions will be added as I progress.
+**Consistency is the key to mastering DSA.**
+
+⭐ Learning, Practicing, and Improving every day!

@@ -1,8 +1,8 @@
-package Flow_of_Program;
+package flow_of_program;
 import java.util.Scanner;
 
 public class Question02 {
-    public static void main(String[] args){ 
+    public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         //Take two numbers and print the sum of both.
         int num1;
