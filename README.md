@@ -1,74 +1,43 @@
 # DSA Java Practice 🚀
 
-Welcome to my **Data Structures and Algorithms (DSA) with Java** learning journey!
+Welcome to my **Data Structures and Algorithms (DSA) journey using Java**.
 
-This repository contains my Java practice programs, assignments, and problem-solving exercises as I build a strong foundation in programming and Data Structures & Algorithms.
+This repository contains my solutions to programming problems from [Kunal Kushwaha's DSA Course](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java).
 
-## 🎯 Learning Goals
-
-* Strengthen Java programming fundamentals.
-* Improve logical thinking and problem-solving skills.
-* Understand Data Structures and Algorithms.
-* Practice writing clean and readable code.
-* Prepare for technical interviews.
-
-## 🛠️ Technologies Used
-
-* **Language:** Java
-* **IDE:** VS Code
-* **Version Control:** Git & GitHub
-* **Learning Resource:** Kunal Kushwaha's DSA Bootcamp
+My goal is to strengthen my problem-solving skills, improve my Java programming knowledge, and build a strong foundation in Data Structures and Algorithms.
 
 ## 📚 Assignments & Progress
 
-| No. | Topic                | Status      |
-| --- | -------------------- | ----------- |
-| 01  | Flow of Program      | ✅ Completed |
-| 02  | Java Basics          | ✅ Completed |
-| 03  | Conditionals & Loops | ✅ Completed |
-| 04  | Functions            | ⏳ Upcoming  |
-| 05  | Arrays               | ⏳ Upcoming  |
-| 06  | Searching            | ⏳ Upcoming  |
-| 07  | Sorting              | ⏳ Upcoming  |
+| No. | Assignment | Progress | Status |
+|:---:|---|:---:|:---:|
+| 01 | Flow of Program | Completed | ✅ |
+| 02 | Java Basics | Completed | ✅ |
+| 03 | Conditional Loops | 11/15 Questions | 🔄 |
+| 04 | Functions | Not Started | ⏳ |
+| 05 | Arrays | Not Started | ⏳ |
 
-## 💻 Assignment 03 – Conditionals & Loops
+## 🛠️ Languages & Tools
 
-**Programs Practiced:**
+- **Language:** Java
+- **IDE:** Visual Studio Code
+- **Version Control:** Git & GitHub
 
-* [x] Area of a Circle
-* [x] Area of a Triangle
-* [x] Area of a Rectangle
-* [x] Area of an Isosceles Triangle
-* [x] Area of a Parallelogram
+## 🎯 Goals
 
-**Concepts Practiced:**
-
-* Conditional statements
-* Loops and iteration
-* User input using `Scanner`
-* Mathematical calculations
-* Java `Math` class
-* `Math.PI` and `Math.sqrt()`
-* Integer division and decimal division
-* Logical thinking and problem-solving
+- Build strong Java fundamentals.
+- Practice programming problems consistently.
+- Improve logical thinking and problem-solving skills.
+- Learn Data Structures and Algorithms step by step.
+- Maintain a consistent coding journey.
 
 ## 📈 My Progress
 
-* [x] Assignment 01 – Flow of Program
-* [x] Assignment 02 – Java Basics
-* [x] Assignment 03 – Conditionals & Loops
-* [ ] Assignment 04 – Functions
-* [ ] Assignment 05 – Arrays
+Currently working on **Assignment 03 – Conditional Loops**.
 
-I will continuously update this repository as I learn new concepts and solve more problems.
+Completed 11 out of 15 questions.
 
-## 📖 Learning Resources
-
-* [Kunal Kushwaha – DSA Bootcamp](https://www.youtube.com/@KunalKushwaha)
-* [Java Documentation](https://docs.oracle.com/en/java/)
+I will keep updating this repository as I progress through my DSA journey.
 
 ---
 
-**Consistency is the key to mastering DSA.**
-
-⭐ Learning, Practicing, and Improving every day!
+⭐ Thanks for visiting my repository!
